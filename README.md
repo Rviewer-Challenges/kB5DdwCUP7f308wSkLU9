@@ -1,6 +1,8 @@
 # Twitter Mirroring
 # Clon de Twitter por @jr_blanco_
 
+Capturas
+![Captura 1](Capturas.jpg)
 
 
 Who doesn't have a Twitter account? One of the biggest and controversial social networks of this decade, which has
