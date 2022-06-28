@@ -2,7 +2,10 @@
 # Clon de Twitter por @jr_blanco_
 
 Capturas
-![Captura 1](Capturas.jpg)
+![Captura 1](Capturas.jpg)  ![Captura 1](Capturas2.jpg)
+
+APK: (ClonTwitter.apk) 
+https://github.com/Rviewer-Challenges/kB5DdwCUP7f308wSkLU9/blob/main/ClonTwitter.apk
 
 
 Who doesn't have a Twitter account? One of the biggest and controversial social networks of this decade, which has
